@@ -2,7 +2,7 @@
 
 ## Description
 
-MD-Convert is a powerful tool designed to convert HTML to Markdown. It helps users easily transform HTML content into properly formatted Markdown documents, including advanced features for handling tables and local anchors.
+MD-Convert is a simple tool designed to convert HTML to Markdown. It helps users easily transform HTML content into properly formatted Markdown documents, including advanced features for handling tables and local anchors.
 
 ## Features
 
